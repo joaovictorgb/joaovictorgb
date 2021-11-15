@@ -1,6 +1,6 @@
 ## Hey there, I'm João Victor Barbosa👋
 ### 🎓🏛 I'm studing of Computer Science ! 
-#### - 👨‍💻 Currently working with Back-end and Algorithms .  
+#### - 👨‍💻 Currently working with Back-end, Front-end and Algorithms for competitions .  
  <div>
   <a href="https://github.com/joaovictorgb">
 </div>
